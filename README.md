@@ -2,7 +2,7 @@
 
 [Gitee](https://gitee.com/haujet/JumpCutter2)　|　[Github](https://github.com/HaujetZhao/JumpCutter2) 
 
-# 名字
+# JumpCutter2
 
 ## ⭐ 简介
 
@@ -19,7 +19,7 @@
 
 ## 📝 背景
 
-原来 JumpCutter 需要把视频所有帧都提取成照片，存储在硬盘上，一段100多兆的视频，就可能产生20多G的图片文件，对硬盘寿命影响很大。
+原来 [JumpCutter](https://github.com/carykh/jumpcutter) 需要把视频所有帧都提取成照片，存储在硬盘上，一段100多兆的视频，就可能产生20多G的图片文件，对硬盘寿命影响很大。
 
 改进后使用标准输入和标准输出，数据都是经过内存，不再频繁读写硬盘。
 
