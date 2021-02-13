@@ -1,0 +1,5 @@
+av
+audiotsm
+spleeter
+scipy
+numpy
