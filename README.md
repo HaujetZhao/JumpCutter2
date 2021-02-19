@@ -17,6 +17,8 @@
 
 - 发行版下载地址： [Releases](../../releases) 
 
+使用教程视频地址：https://www.bilibili.com/video/BV165411N7By/
+
 ## 📝 背景
 
 原来 [JumpCutter](https://github.com/carykh/jumpcutter) 需要把视频所有帧都提取成照片，存储在硬盘上，一段100多兆的视频，就可能产生20多G的图片文件，对硬盘寿命影响很大。
